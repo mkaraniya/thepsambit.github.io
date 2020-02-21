@@ -1,6 +1,8 @@
-# ryan-andri.github.io
----
-### Credits
-https://vincentgarreau.com/particles.js for Particles.js
+# pranaya2005.netlify.com
 
-https://freehtml5.co for Parts of CSS
+### Credits
+https://github.com/ryan-andri/ryan-andri.github.io for main repo
+
+https://vincentgarreau.com/particles.js for particles.js
+
+https://freehtml5.co for parts of CSS

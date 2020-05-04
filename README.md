@@ -1,4 +1,4 @@
-# pranaya2005.netlify.com
+# amith07.github.io
 
 ### Credits
 https://github.com/ryan-andri/ryan-andri.github.io for main repo
